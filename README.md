@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/w3J7mstYCISqs" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-space-high-w3J7mstYCISqs">via GIPHY</a></p>" width="100"/>
+  <img src="https://media4.giphy.com/media/99Tb5E4Cu3Mly/giphy.gif?cid=ecf05e47bfnhxdn4ltyj2joh69f0dnlt1pb2bs7s5cj85kff&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <!--
 **h-h-v/h-h-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
