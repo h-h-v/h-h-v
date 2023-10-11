@@ -1,6 +1,6 @@
-### Hi there 👋
+### >_Hi 👋
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/99Tb5E4Cu3Mly/giphy.gif?cid=ecf05e47bfnhxdn4ltyj2joh69f0dnlt1pb2bs7s5cj85kff&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media4.giphy.com/media/99Tb5E4Cu3Mly/giphy.gif?cid=ecf05e47bfnhxdn4ltyj2joh69f0dnlt1pb2bs7s5cj85kff&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300"/>
 </div>
 <!--
 **h-h-v/h-h-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
