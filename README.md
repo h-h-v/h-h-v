@@ -3,8 +3,6 @@
   
 ![Untitled-removebg-preview](https://github.com/h-h-v/h-h-v/assets/80401092/7583cdb7-1584-475d-9f1b-46660b34ce33)
 
-![Untitled](https://github.com/h-h-v/h-h-v/assets/80401092/f60b040d-0908-4e7b-ba20-b972329f8b5b)
-
 [![](https://visitcount.itsvg.in/api?id=h-h-v&icon=6&color=7)](https://visitcount.itsvg.in)
 
 
