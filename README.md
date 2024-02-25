@@ -1,8 +1,6 @@
 # >_Hi👻
 <div align="center">
 
-![Untitled video - Made with Clipchamp](https://github.com/h-h-v/h-h-v/assets/80401092/ebd246f4-2484-48fa-ace5-7b5664b06834)
-
 ![Untitled](https://github.com/h-h-v/h-h-v/assets/80401092/f60b040d-0908-4e7b-ba20-b972329f8b5b)
 
 [![](https://visitcount.itsvg.in/api?id=h-h-v&icon=6&color=7)](https://visitcount.itsvg.in)
