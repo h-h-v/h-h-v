@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### 🌍 **Find me here**:
+### 🌍 **Find my **:
 - [GitHub](https://github.com/h-h-v)
-- [LinkedIn](https://linkedin.com/in/h-h-v)
+- [GitLab](https://gitlab.com/h-h-v)
+- [HackerRank](https://www.hackerrank.com/profile/h_h_v)
