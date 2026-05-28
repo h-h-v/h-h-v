@@ -1,11 +1,8 @@
-# Developer & Researcher
+```text
+guest@github:~$ cat profile.txt
 
-Focused on deep learning architectures, computer vision, and software engineering.
+[Role]       Developer & Researcher
+[Focus]      Neural networks • Model optimization • Explainable AI • System backends
+[Tech]       Python • C# • C++ • TensorFlow • Keras • .NET • Linux
 
-
-**Focus**
-Neural networks • Model optimization • Explainable AI • System backends
-
-**Tech**
-Python • C# • C++ • TensorFlow • Keras • .NET • Linux
-
+guest@github:~$ ./links.sh
